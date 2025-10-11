@@ -50,11 +50,7 @@
 - ✉️ Email: your.email@example.com  
 - 🌐 Portfolio: [your-website.com](https://your-website.com)  
 
----
-
-> “Live as if you were to die tomorrow. Learn as if you were to live forever.”  
-> — Mahatma Gandhi
 
 ---
 
-_This README is auto‑generated / maintained. Feel free to clone, modify, and personalize it to your liking!_
+
