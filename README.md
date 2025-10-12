@@ -78,6 +78,9 @@ I love crafting efficient backend systems, intuitive UIs, and exploring new tech
 ---
 
 <!-- Footer -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritam-nitj&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
+
+
