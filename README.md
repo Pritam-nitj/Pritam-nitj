@@ -1,179 +1,83 @@
-<!--
-README.md for Pritam
-Data used from the uploaded resume. :contentReference[oaicite:1]{index=1}
--->
+<!-- Profile README for Pritam -->
 
-<!-- Animated header SVG -->
+<!-- Animated typing header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Pritam!;Full-stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
+</h1>
+
+<!-- About Section -->
+## 👨‍💻 About Me
+
+I’m **Pritam**, a passionate **Full-stack Developer** with a strong foundation in building scalable, modern, and responsive web applications.  
+I love crafting efficient backend systems, intuitive UIs, and exploring new technologies that enhance performance and user experience.
+
+- 🎓 Pursuing **B.Tech in Information Technology** from NIT Jalandhar  
+- 💼 Skilled in designing clean APIs, database schemas & reusable components  
+- 💡 Constantly learning & exploring **Next.js, TypeScript, and cloud deployments**  
+- 🌱 Currently diving deeper into **system design & backend optimization**  
+
+---
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
+### 🚀 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🧠 Databases & ORMs  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### 🧰 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <svg width="100%" viewBox="0 0 1000 180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
-    <defs>
-      <linearGradient id="g1" x1="0%" x2="100%">
-        <stop offset="0%" stop-color="#06b6d4"/>
-        <stop offset="50%" stop-color="#7c3aed"/>
-        <stop offset="100%" stop-color="#06b6d4"/>
-      </linearGradient>
-      <filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="6" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <!-- Background rounded card -->
-    <rect x="10" y="10" rx="14" ry="14" width="980" height="160" fill="white" opacity="0.03"/>
-
-    <!-- Name text with animated gradient stroke -->
-    <text x="50%" y="55" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-          font-weight="700" font-size="42" text-anchor="middle" fill="url(#g1)" >
-      Pritam
-      <animate attributeName="x" from="50%" to="50%" dur="1s" begin="0s" fill="freeze"/>
-    </text>
-
-    <!-- Subtitle -->
-    <text x="50%" y="95" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif"
-          font-size="18" text-anchor="middle" fill="#9ca3af">
-      Full-stack Developer • MERN & Next.js • TypeScript & PostgreSQL
-    </text>
-
-    <!-- Rotating gear mark -->
-    <g transform="translate(920,40)">
-      <g>
-        <circle cx="0" cy="0" r="26" fill="none" stroke="url(#g1)" stroke-width="3"/>
-        <g transform="scale(0.65)">
-          <path d="M6 -12 L 12 -6 L 6 0 L -6 0 L -12 -6 L -6 -12 Z" fill="url(#g1)"/>
-        </g>
-        <animateTransform attributeName="transform"
-                          type="rotate"
-                          from="0 0 0"
-                          to="360 0 0"
-                          dur="6s"
-                          repeatCount="indefinite"/>
-      </g>
-    </g>
-  </svg>
+  
+  ![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritam-nitj&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-nitj&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pritam-nitj&theme=tokyonight&hide_border=true)
+  
 </div>
 
 ---
 
-<!-- About -->
-### About
-I am a Full-stack developer (B.Tech Information Technology) building production-quality web applications using modern stacks such as Next.js, Node.js, React, PostgreSQL and MongoDB. I design scalable backend schemas and focus on clean UX in the frontend. Data below is taken from my resume. :contentReference[oaicite:2]{index=2}
+<!-- Connect Section -->
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:pritamk6284987295@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pritam-nitj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Pritam-nitj">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### Education
-- **B.Tech in Information Technology** — Dr. B.R. Ambedkar National Institute of Technology, Jalandhar. (CGPA: 7.20) :contentReference[oaicite:3]{index=3}
-- **Intermediate** — Police D.A.V Public School, Amritsar (94.6%). :contentReference[oaicite:4]{index=4}
-
----
-
-### Projects
-> Links below were listed in the resume. :contentReference[oaicite:5]{index=5}
-
-#### Smart LMS — `Next.js • Prisma • PostgreSQL • TypeScript`  
-🔗 https://github.com/Pritam-nitj/Smart-Library-MS  
-- Smart, responsive Library Management System with server-side rendering.  
-- Quick Issue/Return via QR code scanning to automate issuing and returning.  
-- Fine payments via PhonePe, advanced book search & librarian/student dashboards. :contentReference[oaicite:6]{index=6}
-
-#### Chat App — `MERN • Socket.io • TailwindCSS • DaisyUI • Zustand • JWT`  
-🔗 https://github.com/Pritam-nitj/ChatApp  
-- Real-time messaging with Socket.io, JWT authentication, online presence indicators.  
-- Global state management via Zustand and modern styling with Tailwind + DaisyUI. :contentReference[oaicite:7]{index=7}
-
-#### E-commerce WebApp — `React • Redux Toolkit • Node.js • Express • MongoDB`  
-🔗 https://github.com/Pritam-nitj/mern-ecommerce  
-- Full-stack e-commerce platform with admin panel, Cloudinary image uploads, PayPal integration. :contentReference[oaicite:8]{index=8}
-
-#### Video Summarization Tool — `React • Python • OpenAI Whisper • BART`  
-- Generates concise multilingual summaries and full transcriptions for video URLs; supports mind-map generation from summaries. :contentReference[oaicite:9]{index=9}
-
----
-
-### Technical Skills
-<!-- Skill badges as inline SVG chips -->
-<div>
-  <svg height="28">
-    <rect rx="6" ry="6" width="120" height="28" fill="#111827"/>
-    <text x="12" y="19" fill="#fff" font-size="12" font-family="Segoe UI, Roboto">JavaScript</text>
-  </svg>
-  <svg height="28">
-    <rect rx="6" ry="6" width="90" height="28" fill="#111827"/>
-    <text x="12" y="19" fill="#fff" font-size="12">TypeScript</text>
-  </svg>
-  <svg height="28">
-    <rect rx="6" ry="6" width="120" height="28" fill="#111827"/>
-    <text x="12" y="19" fill="#fff" font-size="12">React • Next.js</text>
-  </svg>
-  <svg height="28">
-    <rect rx="6" ry="6" width="120" height="28" fill="#111827"/>
-    <text x="12" y="19" fill="#fff" font-size="12">Node • Express</text>
-  </svg>
-  <svg height="28">
-    <rect rx="6" ry="6" width="110" height="28" fill="#111827"/>
-    <text x="12" y="19" fill="#fff" font-size="12">MongoDB • PostgreSQL</text>
-  </svg>
-  <svg height="28">
-    <rect rx="6" ry="6" width="110" height="28" fill="#111827"/>
-    <text x="12" y="19" fill="#fff" font-size="12">Prisma • Mongoose</text>
-  </svg>
-</div>
-
-Technical skills summarized from resume. :contentReference[oaicite:10]{index=10}
-
----
-
-### How I work
-- Prefer clear API contracts, normalized DB schemas, and modular components.
-- Focus on performance optimizations and accessible, responsive UI.
-- Use Git & feature-branch workflow; deploy CI/CD for production builds.
-
----
-
-### Quick contact
-- Phone: `+91 6284986514`  
-- Email: `pritamk6284987295@gmail.com`  
-- LinkedIn: https://www.linkedin.com/in/Pritam-nitj/ :contentReference[oaicite:11]{index=11}  
-- GitHub: https://github.com/Pritam-nitj :contentReference[oaicite:12]{index=12}
-
----
-
-### Animated footer (subtle wave)
-<svg viewBox="0 0 1200 80" width="100%" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-  <path id="wave" d="M0 40 C 150 80 350 0 600 40 C 850 80 1050 0 1200 40 L1200 100 L0 100 Z" fill="#0ea5a4" opacity="0.08">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="
-        M0 40 C 150 80 350 0 600 40 C 850 80 1050 0 1200 40 L1200 100 L0 100 Z;
-        M0 40 C 150 0 350 80 600 40 C 850 0 1050 80 1200 40 L1200 100 L0 100 Z;
-        M0 40 C 150 80 350 0 600 40 C 850 80 1050 0 1200 40 L1200 100 L0 100 Z" />
-  </path>
-</svg>
-
----
-
-## Tips to customize
-1. Replace header SVG text if you want a tagline change.  
-2. Swap or add project links where needed — the README uses URLs pulled from your resume. :contentReference[oaicite:13]{index=13}  
-3. If you want additional animated badges (GitHub stats, top languages), tell me which ones and I will generate them.
-
----
-
-## Summary table
-
-| Section | Source / Notes |
-|---|---|
-| Name & Contact | From resume (phone, email, LinkedIn, GitHub). :contentReference[oaicite:14]{index=14} |
-| Education | B.Tech (NIT Jalandhar), Intermediate % included. :contentReference[oaicite:15]{index=15} |
-| Key Projects | Smart LMS, Chat App, E-commerce, Video Summarization — descriptions & repo links from resume. :contentReference[oaicite:16]{index=16} |
-| Tech & Tools | JS, TS, React, Next.js, Node, Express, MongoDB, PostgreSQL, Prisma, Tailwind, Zustand, Socket.io. :contentReference[oaicite:17]{index=17} |
-| What I added | Inline SVG header, animated gear, skill chips, wave footer, and SMIL animations (works on GitHub). |
-
----
-
-If you want, I can:
-- produce a second variant with dark-themed SVGs and icons, or
-- output the same README as a ready file to download, or
-- add GitHub dynamic widgets (language stats / streak) — tell me which and I'll include them.
-
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:7c3aed&height=100&section=footer"/>
+</p>
