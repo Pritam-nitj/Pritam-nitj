@@ -1,10 +1,13 @@
 <!-- Profile README for Pritam -->
-
+[![An image of @pritamnitj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pritamnitj)](https://holopin.io/@pritamnitj)
 <!-- Animated typing header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Pritam!;Full-stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pritam-nitj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 <!-- About Section -->
 ## 👨‍💻 About Me
 
