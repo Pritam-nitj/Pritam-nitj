@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Pritam!;Full-stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript+%7C+PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Pritam!;Full-stack+Web+Developer;MERN+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
 </h1>
 
 <!-- About Section -->
