@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=pritam-nitj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <!-- About Section -->
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 I’m **Pritam**, a passionate **Full-stack Developer** with a strong foundation in building scalable, modern, and responsive web applications.  
 I love crafting efficient backend systems, intuitive UIs, and exploring new technologies that enhance performance and user experience.
