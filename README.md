@@ -79,7 +79,6 @@ I love crafting efficient backend systems, intuitive UIs, and exploring new tech
 </p>
 
 ---
-
 <!-- Footer -->
 
 <p align="center">
