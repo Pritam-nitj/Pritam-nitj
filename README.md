@@ -49,9 +49,13 @@ I love crafting efficient backend systems, intuitive UIs, and exploring new tech
 ---
 
 <!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritam-nitj&theme=radical&no-bg=true&margin-w=10&margin-h=10" />
+</p>
   
   ![Pritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pritam-nitj&show_icons=true&theme=tokyonight&hide_border=true)
   
@@ -76,13 +80,6 @@ I love crafting efficient backend systems, intuitive UIs, and exploring new tech
   <a href="https://github.com/Pritam-nitj">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-<!-- Footer -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pritam-nitj&theme=radical&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 
