@@ -85,4 +85,20 @@ I love crafting efficient backend systems, intuitive UIs, and exploring new tech
   <img src="https://github-profile-trophy.vercel.app/?username=Pritam-nitj&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritam-nitj&theme=tokyonight&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-nitj&theme=tokyonight&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-nitj&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pritam-nitj&theme=tokyonight" />
+</p>
+
 
